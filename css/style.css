@@ -19,6 +19,16 @@ body {
   background: #f3f7fa;
 }
 
+.displaybox {
+  background: #6495ed;
+  padding: 50px;
+  border-radius: 20px
+}
+
+.displaybox h1 {
+  margin-top: 100px !important;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
