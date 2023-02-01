@@ -84,6 +84,11 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #6495ed;
 }
 
+#fh5co-header {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;  
+}
+
 #fh5co-header,
 .fh5co-cover {
   background-color: transparent;
@@ -100,7 +105,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: #6495ed;
+  background: #6495ede6;
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
