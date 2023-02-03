@@ -1125,6 +1125,7 @@ input[type="text"] {
 }
 .btn.btn-lg {
   padding: 18px 36px !important;
+  text-transform: capitalize !important;
 }
 .btn:hover, .btn:active, .btn:focus {
   box-shadow: none !important;
