@@ -1311,4 +1311,14 @@ input[type="text"] {
   opacity: 0;
 }
 
+@media all and (min-width: 768px) and (max-width: 980px) {
+  #fh5co-consult .video.fh5co-video {
+    display: none;
+  }
+
+  #fh5co-consult .choose {
+      width: 100%;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
